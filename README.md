@@ -7,7 +7,7 @@ New Folder2 - to share any helpful files/content use this folder
 
 insert any of your comments with # 
 
-example: # vpadalkar81-gmail.com
+example: # Vaibhav "comment text"
 
 
 HAVE FUN!!!
